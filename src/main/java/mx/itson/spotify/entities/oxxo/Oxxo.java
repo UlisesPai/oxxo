@@ -84,6 +84,7 @@ public class Oxxo {
         this.articulos = articulos;
     }
     
+    //Prueba para el GitHub
     private Date fecha;
     private String gerente;
     private Sucursal sucursal;
