@@ -84,7 +84,7 @@ public class Oxxo {
         this.articulos = articulos;
     }
     
-    //KKQLOPDOPI
+    //nuevo mensaje para el gitHub
     //Prueba para el GitHub
     private Date fecha;
     private String gerente;
